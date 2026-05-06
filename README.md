@@ -1,4 +1,3 @@
-# FFMPEG
 # FFmpeg Automation Scripts
 
 A collection of simple Bash scripts to process videos and GIFs using FFmpeg.
